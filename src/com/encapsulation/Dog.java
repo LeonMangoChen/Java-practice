@@ -1,4 +1,4 @@
-package com.imooc;
+package com.encapsulation;
 
 public class Dog extends Animal {
 	public void eat(){

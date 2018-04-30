@@ -1,4 +1,4 @@
-package com.imooc;
+package com.encapsulation;
 
 	/*final*/ public class Animal {
 	public int age = 10;

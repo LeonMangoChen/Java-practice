@@ -1,4 +1,4 @@
-package com.imooc;
+package com.encapsulation;
 
 public class Telphone {
 	private float screen;

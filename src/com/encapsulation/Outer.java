@@ -1,4 +1,4 @@
-package com.imooc;
+package com.encapsulation;
 //外部类Outer
 public class Outer {
 	private int a = 99;//外部类的私有属性

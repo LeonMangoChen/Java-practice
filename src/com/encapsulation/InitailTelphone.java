@@ -1,4 +1,4 @@
-package com.imooc;
+package com.encapsulation;
 
 public class InitailTelphone {
 	public static void main(String[] args) {
