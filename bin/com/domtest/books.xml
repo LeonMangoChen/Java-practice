@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book id="1">
+		<name>天龙八部</name>
+		<author>金庸</author>
+		<year>1965</year>
+		<price>100</price>
+	</book>
+	<book id="2">
+		<name>飞鸟集</name>
+		<year>1936</year>
+		<price>77</price>
+		<language>English</language>
+	</book>
+</bookstore>
